@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+  color: red;
+}
+body {
+  font-family: 'Anton', sans-serif;
+}
+h1 {
+  font-size: 50px;
+  margin-bottom: 0;
+  font-weight: bold;
+  font-family: 'Creepster', cursive;
+}
+h3 {
+  font-size: 40px;
+}
+.headerAndForm p {
+  font-size: 30px;
+  font-family: 'Creepster', cursive;
+}
+.headerAndForm {
+  width: 45%;
+  float: left;
+  text-align: center;
+}
+.header {
+  height: 35%;
+}
+.form {
+  height: 65%;
+  background-color: red;
+  padding: 2%;
+  width: 75%;
+  margin: 50px auto;
+}
+h2 {
+  color: white;
+  font-size: 30px;
+
+}
+.showMessages {
+  width: 55%;
+  float: left;
+  font-size: 25px;
+  padding-left: 4%;
+  font-family: 'Bebas Neue', cursive;
+}
